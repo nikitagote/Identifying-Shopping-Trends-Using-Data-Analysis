@@ -8,7 +8,7 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 1. How does the purchase amount differ based on review ratings?
 2. How does the average purchase amount vary between male and female customers?
 3. What patterns emerge across age categories and product preferences?
-### The analysis provides actionable insights using both descriptive statistics and visualizations.
+## The analysis provides actionable insights using both descriptive statistics and visualizations.
 
 
 ## Features
@@ -17,7 +17,7 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 3. Insights into customer behavior for business decision-making.
 
 ## Technologies Used
-"." Python
+Python
 Pandas
 Seaborn
 Plotly
