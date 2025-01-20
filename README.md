@@ -5,9 +5,9 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 ## Project Description 
 This project explores a dataset of shopping trends to answer key business questions such as:
 
-How does the purchase amount differ based on review ratings?
-How does the average purchase amount vary between male and female customers?
-What patterns emerge across age categories and product preferences?
+1. How does the purchase amount differ based on review ratings?
+2. How does the average purchase amount vary between male and female customers?
+3. What patterns emerge across age categories and product preferences?
 The analysis provides actionable insights using both descriptive statistics and visualizations.
 
 
