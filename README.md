@@ -24,6 +24,19 @@ Python, Pandas, Seaborn, Plotly, Matplotlib, Jupyter Notebook.
 git clone https://github.com/nikitagote/Identifying-Shopping-Trends-Using-Data-Analysis.git      
 
 ## Usage
+1. Load the dataset (shopping_trends_updated.csv) into the project directory.
+2. Open the Jupyter Notebook:
+jupyter notebook AICTE_Shopping_Trends_Analysis.ipynb
+3. Run the analysis and explore insights.
+   
 ## Project Structure
-## Contributing
+shopping-trends-analysis/
+├── AICTE_Shopping_Trends_Analysis.ipynb  # Main notebook for analysis
+├── shopping_trends_updated.csv           # Dataset file (add your dataset here)
+├── requirements.txt                      # List of dependencies
+├── README.md                             # Project description
+└── visuals/                              # Directory for saved visualizations
+
+
 ## License
+This project is licensed under the MIT License. See the LICENSE file for details.
