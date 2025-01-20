@@ -30,12 +30,9 @@ jupyter notebook AICTE_Shopping_Trends_Analysis.ipynb
 3. Run the analysis and explore insights.
    
 ## Project Structure
-shopping-trends-analysis/
-├── AICTE_Shopping_Trends_Analysis.ipynb  # Main notebook for analysis
-├── shopping_trends_updated.csv           # Dataset file (add your dataset here)
-├── requirements.txt                      # List of dependencies
-├── README.md                             # Project description
-└── visuals/                              # Directory for saved visualizations
+git add .
+git commit -m "Initial commit: Added project structure"
+
 
 
 ## License
