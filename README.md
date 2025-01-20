@@ -3,16 +3,26 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 
 # Table of Contents
 ## Project Description 
-This project explores a dataset of shopping trends to answer key business questions such as:
+### This project explores a dataset of shopping trends to answer key business questions such as:
 
 1. How does the purchase amount differ based on review ratings?
 2. How does the average purchase amount vary between male and female customers?
 3. What patterns emerge across age categories and product preferences?
-#### The analysis provides actionable insights using both descriptive statistics and visualizations.
+### The analysis provides actionable insights using both descriptive statistics and visualizations.
 
 
 ## Features
+1. Grouped analysis based on various demographic and review-related factors.
+2. Visualization of key trends using interactive Plotly charts and Seaborn plots.
+3. Insights into customer behavior for business decision-making.
+
 ## Technologies Used
+"." Python
+Pandas
+Seaborn
+Plotly
+Matplotlib
+Jupyter Notebook
 ## Installation
 ## Usage
 ## Project Structure
