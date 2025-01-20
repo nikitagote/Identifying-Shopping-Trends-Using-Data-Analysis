@@ -21,7 +21,7 @@ Python, Pandas, Seaborn, Plotly, Matplotlib, Jupyter Notebook.
 
 ## Installation
 1. Clone this repository:
-git clone https://github.com/your-username/shopping-trends-analysis.git
+git clone https://github.com/your-username/shopping-trends-analysis.git               
 
 2. Navigate to the project directory:
 cd shopping-trends-analysis
