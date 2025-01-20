@@ -8,7 +8,7 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 1. How does the purchase amount differ based on review ratings?
 2. How does the average purchase amount vary between male and female customers?
 3. What patterns emerge across age categories and product preferences?
-## The analysis provides actionable insights using both descriptive statistics and visualizations.
+### The analysis provides actionable insights using both descriptive statistics and visualizations.
 
 
 ## Features
@@ -17,13 +17,18 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 3. Insights into customer behavior for business decision-making.
 
 ## Technologies Used
-Python
-Pandas
-Seaborn
-Plotly
-Matplotlib
-Jupyter Notebook
+Python, Pandas, Seaborn, Plotly, Matplotlib, Jupyter Notebook.
+
 ## Installation
+1. Clone this repository:
+git clone https://github.com/your-username/shopping-trends-analysis.git
+
+2. Navigate to the project directory:
+cd shopping-trends-analysis
+
+3. Install the required dependencies:
+pip install -r requirements.txt
+
 ## Usage
 ## Project Structure
 ## Contributing
