@@ -3,10 +3,10 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 
 # Table of Contents
 ## Project Description
-Features
-Technologies Used
-Installation
-Usage
-Project Structure
-Contributing
-License
+## Features
+## Technologies Used
+## Installation
+## Usage
+## Project Structure
+## Contributing
+## License
