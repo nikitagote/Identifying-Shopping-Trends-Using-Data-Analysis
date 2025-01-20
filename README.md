@@ -29,5 +29,4 @@ git clone https://github.com/nikitagote/Identifying-Shopping-Trends-Using-Data-A
 jupyter notebook AICTE_Shopping_Trends_Analysis.ipynb
 3. Run the analysis and explore insights.
    
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
