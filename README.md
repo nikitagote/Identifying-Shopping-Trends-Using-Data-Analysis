@@ -17,7 +17,7 @@ Shopping Trends Analysis This project focuses on analyzing shopping trends using
 3. Insights into customer behavior for business decision-making.
 
 ## Technologies Used
-Python, numpy, Pandas, Seaborn, matplotlib, Plotly, Matplotlib, Jupyter Notebook.
+Python, numpy, Pandas, Seaborn, matplotlib, Plotly, Jupyter Notebook.
 
 ## Installation
 1. Clone this repository:
